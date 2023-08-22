@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishi_vadje
-RPA Developer
-Cloud Learner
+-RPA Developer
+-Cloud Learner
 - 📫 rishivadje8859@gmail.com...
 
 <!---
